@@ -3,4 +3,16 @@
   margin-right: auto;
   width: fit-content;
   display: block;
-}]
+}
+
+.intro {
+  color: darkmagenta;
+}
+.education {
+  color: green;
+  font-family: sans-serif;
+}
+
+.highlight {
+  font-weight: bolder;
+}
